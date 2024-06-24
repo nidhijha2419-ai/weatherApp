@@ -36,7 +36,7 @@ const Settings = () => {
             </svg>
           </div>
           <section className="support-header">
-            <h5 className="fw-bold fs-5 text-capitalize">support developer</h5>
+            <h5 className="fw-bold fs-5 text-capitalize">support Developer</h5>
           </section>
           <div className="toggle-btn "></div>
         </section>
